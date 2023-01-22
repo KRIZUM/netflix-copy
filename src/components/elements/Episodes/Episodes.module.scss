@@ -1,0 +1,31 @@
+@import '../../../images/variables';
+
+.episode {
+  font-size: 20px;
+  display: flex;
+  transition: 0.3s;
+  color: $gray;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.logo {
+  width: 150px;
+  height: 200px;
+}
+
+.main_info {
+  margin-top: 40px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.main_logo {
+  margin-top: 40px;
+  margin-left: 10px;
+}
