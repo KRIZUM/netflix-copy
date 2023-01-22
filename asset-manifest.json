@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/netflix-copy/static/css/main.8faba91e.css",
+    "main.js": "/netflix-copy/static/js/main.a6381456.js",
+    "static/media/avengers_4.png": "/netflix-copy/static/media/avengers_4.1209e0f0e15673e71350.png",
+    "static/media/avengers_3.png": "/netflix-copy/static/media/avengers_3.d1d49ba30325ca24b13c.png",
+    "static/media/avengers_1.png": "/netflix-copy/static/media/avengers_1.500a203cce445cbc1de7.png",
+    "static/media/avengers_2.png": "/netflix-copy/static/media/avengers_2.c93c2bc56805dcc14033.png",
+    "static/media/bg.jpg": "/netflix-copy/static/media/bg.933fc2923bf4d9541e92.jpg",
+    "index.html": "/netflix-copy/index.html",
+    "main.8faba91e.css.map": "/netflix-copy/static/css/main.8faba91e.css.map",
+    "main.a6381456.js.map": "/netflix-copy/static/js/main.a6381456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8faba91e.css",
+    "static/js/main.a6381456.js"
+  ]
+}
